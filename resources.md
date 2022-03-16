@@ -1,11 +1,11 @@
-[Home](https://codingclubmwsc.github.io) / Resources  
+[Home](https://coding.mwsc.team/) / Resources  
 
 # Resources
 Making projects can be really hard when you don't understand what you are doing or don't have the tools for the job.  
 To try to help in this process we have compiled a list of resources and tools that can help you make projects.  
 
-### [IDEs](https://codingclubmwsc.github.io/resources/IDE.html)
+### [IDEs](https://coding.mwsc.team/resources/IDE.html)
 An good IDE can make writing code faster and easier and is a tool that all developers use.
 
-### [Adobe Creative Cloud](https://codingclubmwsc.github.io/resources/Adobe.html)
+### [Adobe Creative Cloud](https://coding.mwsc.team/resources/Adobe.html)
 Did you know you can get Adobe Creative Cloud for free while you are a student?

@@ -1,4 +1,4 @@
-[Home](https://codingclubmwsc.github.io) / [Resources](https://codingclubmwsc.github.io/resources.html) / IDEs  
+[Home](https://coding.mwsc.team) / [Resources](https://coding.mwsc.team/resources.html) / IDEs  
 
 # IDEs
 An IDE is a tool that makes writing code easier and faster. With features such as autocomplete and more it can speed up the process of making a program immensely.  
