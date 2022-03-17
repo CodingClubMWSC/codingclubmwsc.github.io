@@ -1,6 +1,6 @@
 Home  
 
-# Welcome to MWSC's coding clubs website
+# Welcome to MWSC's Coding Clubs Website
 
 We meet on Wednesdays in LA44.
 
