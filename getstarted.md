@@ -47,4 +47,4 @@ where you can compete in a competitive AI battle simulator while learning Python
 
 
 ## [What to do next](https://coding.mwsc.team/resources)
-After you have mastered the above you can move on to learn how to use languages in different ways.
+After you have mastered the above you can move on to learn how to use languages in different ways. Maybe go to the [resources page!](./resources)
