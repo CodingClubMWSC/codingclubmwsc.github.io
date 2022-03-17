@@ -46,5 +46,5 @@ where you can compete in a competitive AI battle simulator while learning Python
 ![image](https://user-images.githubusercontent.com/61924012/134793250-60ad1b32-3e07-456e-a1b4-5be118144f32.png)
 
 
-## [What to do next](https://coding.mwsc.team/resources.html)
+## [What to do next](https://coding.mwsc.team/resources)
 After you have mastered the above you can move on to learn how to use languages in different ways.
