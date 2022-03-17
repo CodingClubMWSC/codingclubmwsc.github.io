@@ -1,4 +1,4 @@
-[Home](https://coding.mwsc.team) / [Resources](https://coding.mwsc.team//resources.html) / Adobe
+[Home](https://coding.mwsc.team) / [Resources](https://coding.mwsc.team//resources) / Adobe
 
 # Adobe Creative Cloud
 Adobe Creatice Cloud is a suite of tools which include:  
